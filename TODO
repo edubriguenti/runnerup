@@ -1,3 +1,13 @@
+- make gui translatable (DONE)
+
+- audio translations (order of importance)
+  spanish     (DONE)
+  italian
+  portuguese
+
+- auto pause (DONE)
+- lock screen widget
+
 - gui/colors (gui is everything when/if publishing on Market)
   I think RunKeeper's gui/colors is great!
 
@@ -15,7 +25,7 @@
 - upload to FunBeat                (DONE)
 - upload to MapMyRun               (DONE)
 - upload to Endmondo               (DONE)
-- upload to runtastic
+- upload to runtastic              (DONE)
 - upload to jogg.se                (DONE, but their GPX import isn't perfect)
 - upload to Nike+                  (DONE)
 - upload to RunningAHEAD           (DONE)
@@ -55,13 +65,12 @@
   digifit                          (DONE)
   strava                           (DONE)
 
-- edit advanced workouts
+- edit advanced workouts           (DONE)
 - advanced audio cue editor
 
 - setting: autolap during interval    (DONE)
 - setting: delayed start after warmup (DONE)
 - better audio cue defaults           (DONE)
-- audio cues settings: step time/distance/pace
-                                      (DONE)
-- audio cues settings: activity/step/lap summaries
+- audio cues settings: step time/distance/pace     (DONE)
+- audio cues settings: activity/step/lap summaries (DONE)
 
